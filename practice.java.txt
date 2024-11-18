@@ -1,0 +1,10 @@
+import java.util.Scanner
+class interesttest
+{
+ public static void main(strings[] args)
+ {
+  new Scanner = sc Scanner(system.in);
+  system.out.println("print a value");
+  double a = sc.nextInt();
+ }
+}
